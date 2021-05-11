@@ -1,0 +1,81 @@
+html {
+    background: hsl(37deg 56% 78%);
+}
+
+header h1 {
+    font-size: 48px;
+    margin: 0
+}
+header h3 {
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+
+
+#NameField {
+    text-align: left;
+    font-weight: bold;
+    height: 80px;
+    width: 100%;
+}
+#NameField label {
+    display: inline-block;
+    margin: 10px 0;
+}
+#NameField input {
+    width: 49%;
+    height: 30px
+}
+
+
+#EmailField {
+    margin-top: 20px;
+    text-align: left;
+    font-weight: bold;
+    height: 80px;
+    width: 100%;
+}
+#EmailField label {
+    display: inline-block;
+    margin: 10px 0;
+}
+#EmailField input {
+    width: 49%;
+    height: 30px
+}
+
+
+#MessageField {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 20px;
+    height: 400px;
+    width: 100%;
+}
+#MessageField label {
+    display: inline-block;
+    margin: 10px 0;
+}
+#MessageField input {
+    width: 49%;
+    height: 300px
+}
+
+
+
+#NewsletterField label {
+    display: inline-block;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+#NewsletterField p {
+    display: inline;
+
+}
+
+#Submit {
+    display: block;
+    margin-top: 50px;
+}
